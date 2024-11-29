@@ -1,0 +1,244 @@
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\Tourist.exe.config
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\EntityFramework.dll
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\EntityFramework.xml
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+E:\Tourist\Tourist\bin\Debug\Tourist.exe.config
+E:\Tourist\Tourist\bin\Debug\Tourist.exe
+E:\Tourist\Tourist\bin\Debug\Tourist.pdb
+E:\Tourist\Tourist\bin\Debug\EntityFramework.dll
+E:\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+E:\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Tourist\Tourist\bin\Debug\EntityFramework.xml
+E:\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+E:\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+E:\Tourist\Tourist\obj\Debug\Tourist.csproj.SuggestedBindingRedirects.cache
+E:\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+E:\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+E:\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+E:\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+E:\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+E:\Tourist\Tourist\obj\Debug\Tourist.csproj.CopyComplete
+E:\Tourist\Tourist\obj\Debug\Tourist.exe
+E:\Tourist\Tourist\obj\Debug\Tourist.pdb
+D:\Tourist\Tourist\bin\Debug\Tourist.exe.config
+D:\Tourist\Tourist\bin\Debug\Tourist.exe
+D:\Tourist\Tourist\bin\Debug\Tourist.pdb
+D:\Tourist\Tourist\bin\Debug\EntityFramework.dll
+D:\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+D:\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Tourist\Tourist\bin\Debug\EntityFramework.xml
+D:\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+D:\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+D:\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+D:\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+D:\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+D:\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+D:\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+D:\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+D:\Tourist\Tourist\obj\Debug\Tourist.exe
+D:\Tourist\Tourist\obj\Debug\Tourist.pdb
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.exe.config
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.exe
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.pdb
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.dll
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.xml
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.exe
+D:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.pdb
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.exe.config
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.exe
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\Tourist.pdb
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.dll
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.xml
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.exe
+E:\Сделанное\Учебная практика программа Макс(9 вариант)\Tourist\Tourist\obj\Debug\Tourist.pdb
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\Tourist.exe.config
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\Tourist.exe
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\Tourist.pdb
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\EntityFramework.dll
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\EntityFramework.xml
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.exe
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.pdb
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.csproj.SuggestedBindingRedirects.cache
+E:\Сделанное\Колбин Ярослав\Tourist\Tourist\obj\Debug\Tourist.csproj.CopyComplete
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\Tourist.exe.config
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\Tourist.exe
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\Tourist.pdb
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\EntityFramework.dll
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\EntityFramework.xml
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ibijd\Шишов максим\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.exe
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.pdb
+E:\Ibijd\Шишов максим\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe.config
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\Tourist.pdb
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.dll
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.xml
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CopyComplete
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.exe
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.pdb
+\\192.168.3.250\Veda\2 Курс\ИСП23-9,24-11\МДК 05.01\Каймов и Степанов\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.SuggestedBindingRedirects.cache
+D:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe.config
+D:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe
+D:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.pdb
+D:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.dll
+D:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+D:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+D:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.xml
+D:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+D:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.exe
+D:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.pdb
+F:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe.config
+F:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe
+F:\VD\VD\Tourist\Tourist\bin\Debug\Tourist.pdb
+F:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.dll
+F:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+F:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+F:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+F:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+F:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.xml
+F:\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+F:\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.SuggestedBindingRedirects.cache
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CopyComplete
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.exe
+F:\VD\VD\Tourist\Tourist\obj\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe.config
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.dll
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.xml
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\VD\VD\Tourist\Tourist\obj\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.AssemblyReference.cache
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.ENTER.resources
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.PROFRAMTOURIST.resources
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.Properties.Resources.resources
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.GenerateResource.cache
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.CoreCompileInputs.cache
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\Tourist.exe.config
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\Tourist.exe
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\Tourist.pdb
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\EntityFramework.dll
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.dll
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\EntityFramework.xml
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\bin\Debug\System.Data.SQLite.xml
+C:\Users\vkajm\OneDrive\Desktop\VD — копия\VD\Tourist\Tourist\obj\Debug\Tourist.csproj.Up2Date
